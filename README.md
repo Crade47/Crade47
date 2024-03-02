@@ -25,5 +25,5 @@ I'm a versatile software developer based in India, always ready to adapt and lea
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </div>
 
-## 📊 &nbsp;State
+## 📊 &nbsp;Stats
 [![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crade47&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6))](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Crade47&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats)
