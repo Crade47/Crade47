@@ -9,7 +9,6 @@ I'm a versatile software developer based in India, always ready to adapt and lea
 - 📚 Learning Rust 🦀, Kotlin 🤖, and expanding my knowledge of GoLang 🟦, Typescript 💙.
 - 🏗️ Working on building architectural concepts, including microservices and serverless architecture.
 - 🚀 Exploring DevOps practices to streamline development processes and improve deployment automation.
-- 📝 Writing technical articles on Medium to share insights and experiences with the community.
 
 ## 🧰 &nbsp;MyToolbox
 <div style="display: inline-flex;gap: 0.5rem;">
