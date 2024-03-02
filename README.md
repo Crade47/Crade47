@@ -1,16 +1,24 @@
-### Hi there 👋
+(https://github.com/Crade47/Crade47/raw/master/headerGif.gif)
+# 👋 &nbsp;Hi there
 
-<!--
-**Crade47/Crade47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a versatile software developer based in India, always ready to adapt and learn new things to stay ahead in the ever-changing tech landscape. Crafting innovative solutions through full-stack web development is my forte, where I thrive on solving complex problems with high-efficiency tools and microservices. I'm fueled by a passion for continuous learning and enjoy exploring emerging trends to enhance my skills. Catch me on Twitter [@dvanshdev](https://twitter.com/dvanshdev) for engaging discussions and to keep up with the latest in tech!
 
-Here are some ideas to get you started:
+##  🌱 &nbsp;Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Working in Fundsroom and building financial solutions for auditing and micro-investments.
+- 📚 Learning Rust 🦀, Kotlin 🤖, and expanding my knowledge of GoLang 🟦, Typescript 💙.
+- 🏗️ Working on building architectural concepts, including microservices and serverless architecture.
+- 🚀 Exploring DevOps practices to streamline development processes and improve deployment automation.
+- 📝 Writing technical articles on Medium to share insights and experiences with the community.
+
+## 🧰 &nbsp;MyToolbox
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+
