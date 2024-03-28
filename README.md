@@ -6,7 +6,7 @@ I'm a versatile software developer based in India, always ready to adapt and lea
 ##  🌱 &nbsp;Currently
 
 - 🏢 Working in Fundsroom and building financial solutions for auditing and micro-investments.
-- 📚 Learning Rust 🦀, Kotlin 🤖, and expanding my knowledge of GoLang 🟦, Typescript 💙.
+- 📚 Learning Rust 🦀, Flutter 🔷, and expanding my knowledge of GoLang 🔵, Typescript 💙.
 - 🏗️ Working on building architectural concepts, including microservices and serverless architecture.
 - 🚀 Exploring DevOps practices to streamline development processes and improve deployment automation.
 
