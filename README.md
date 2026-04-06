@@ -1,15 +1,13 @@
 ![Hey there, I'm Devansh](https://github.com/Crade47/Crade47/raw/master/headerGif.gif)
 # 👋 &nbsp;Hi there
 
-I'm a versatile software developer based in Ireland, always ready to adapt and learn new things to stay ahead in the ever-changing tech landscape. Crafting innovative solutions through full-stack web development is my forte, where I thrive on solving complex problems with high-efficiency tools and microservices. I'm fueled by a passion for continuous learning and enjoy exploring emerging trends to enhance my skills. Catch me on Twitter [@dvanshdev](https://twitter.com/dvanshdev) for engaging discussions and to keep up with the latest in tech!
+I am currently working as a Software Engineer in the Microsoft Firewall tea. I am always ready to adapt and learn new things to stay ahead in the ever-changing tech landscape. Crafting innovative solutions through full-stack web development is my forte, where I thrive on solving complex problems with high-efficiency tools and microservices. I'm fueled by a passion for continuous learning and enjoy exploring emerging trends to enhance my skills. 
 
 ##  🌱 &nbsp;Currently
 
-- 🏢 Working in Fundsroom and building financial solutions for auditing and micro-investments.
-- 📚 Learning Java ☕️, Flutter 🔷, and expanding my knowledge of GoLang 🔵, Typescript 💙.
+- 🏢 Working in Microsoft, contributing to the Azure core team
 - 🏗️ Working on building architectural concepts, including microservices and serverless architecture.
-- 🚀 Exploring DevOps practices to streamline development processes and improve deployment automation.
-
+- 
 ## 🧰 &nbsp;MyToolbox
 <div style="display: inline-flex;gap: 0.5rem;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
